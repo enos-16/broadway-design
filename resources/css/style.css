@@ -38,3 +38,13 @@ h3 {
 .first {
     background-image: url(../images/the-flatiron-building.png);
 }
+
+.footer p {
+    font-size: 11px;
+}
+
+.footer {
+    text-align: left;
+    background-color: dimgray;
+    color: white;
+}
